@@ -15,6 +15,7 @@
    cd DevOps
 2. Запустите контейнеры:
    docker-compose up -d
+
 📁 Структура проекта
 • docker-compose.yml: Основной конфиг инфраструктуры.
 • nginx/: Конфигурационные файлы Nginx.
